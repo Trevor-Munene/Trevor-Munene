@@ -1,8 +1,8 @@
-HELLO THERE 👋
+Hi there 👋
 
-- 👀 I’m transitionining to Frontend under the guidance of "The Odin Project"developer community.
-- 🌱 I’m a computer science student!
-- 💞️ I’m looking foward to collaborate on web development projects in future.
+- 🌱 I’m transitionining to Frontend under the guidance of "The Odin Project"developer community.
+- 💬 I’m a computer science student!
+- 🔭I’m looking foward to collaborate on web development projects in future.
 - 📫 How to reach me:tmunene756@gmail.com
 
 <!---

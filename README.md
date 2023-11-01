@@ -1,4 +1,5 @@
-- 👋 Hi there
+HELLO THERE 👋
+
 - 👀 I’m transitionining to Frontend under the guidance of "The Odin Project"developer community.
 - 🌱 I’m a computer science student!
 - 💞️ I’m looking foward to collaborate on web development projects in future.
